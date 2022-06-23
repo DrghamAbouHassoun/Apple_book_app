@@ -1,0 +1,38 @@
+[
+    {
+        "id" : "1",
+        "title" : "Ice & Fire",
+        "description" : "Default book description",
+        "image" : "../assets/images/books/book1.png"
+    },
+    {
+        "id" : "2",
+        "title" : "Peter F.Hamilton",
+        "description" : "Default book description",
+        "image" : "../assets/images/books/book2.png"
+    },
+    {
+        "id" : "3",
+        "title" : "C.J Box",
+        "description" : "Default book description",
+        "image" : "../assets/images/books/book3.png"
+    },
+    {
+        "id" : "4",
+        "title" : "The Book Of Moon",
+        "description" : "Default book description",
+        "image" : "../assets/images/books/book4.png"
+    },
+    {
+        "id" : "5",
+        "title" : "Book five",
+        "description" : "Default book description",
+        "image" : "../assets/images/books/book5.png"
+    },
+    {
+        "id" : "6",
+        "title" : "Davinnci Code",
+        "description" : "Default book description",
+        "image" : "../assets/images/books/book6.png"
+    }
+]
